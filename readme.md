@@ -23,3 +23,6 @@ $PWD is the currenty directory
 
 --capabilities CAPABILITY_IAM to create IAM Stacks
 
+#### Repo of the course
+
+https://github.com/devteds/e9-cloudformation-docker-ecs
